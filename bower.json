@@ -1,0 +1,17 @@
+{
+  "name": "foundationRTL",
+  "homepage": "https://mahdixco.github.io/foundationRTL/",
+  "authors": [
+    "Mahdi A.Alinejad <mahdixco@gmail.com>"
+  ],
+  "description": "foundation ZURB RTL version",
+  "main": "rtl.css",
+  "keywords": [
+    "rtl",
+    "foundation",
+    "zurb",
+    "freamwork",
+    "front-end"
+  ],
+  "license": "MIT"
+}
