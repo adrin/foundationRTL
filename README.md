@@ -8,7 +8,7 @@ now you can use this , be happy:)
 
 also you can download it to your project folder. open your terminal , go to project folder and type this :
 ```
-git clone https://github.com/mahdixco/foundationRTL
+git clone https://github.com/adrin/foundationRTL
 ```
 
 # فاندیشن راست چین شده
@@ -20,7 +20,7 @@ git clone https://github.com/mahdixco/foundationRTL
 
 همینطور میتونید این فایل ها رو داخل پوشه پروژتون دانلود کنید ٬ فقط کافیه ترمینال‌تون رو اجرا کنید کد زیر رو داخل تایپ کنید :‌
 ```
-git clone https://github.com/mahdixco/foundationRTL
+git clone https://github.com/adrin/foundationRTL
 ```
 
 خب حالا می‌تونید ازش استفاده کیند :)
